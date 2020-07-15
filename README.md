@@ -1,3 +1,3 @@
 # Student-Performance_Linear-Regression
 
-Predicticting students final grade taking amount of failures or studytime or absences.
+Predicting student's final grade taking account of failures or study time or absences. 
